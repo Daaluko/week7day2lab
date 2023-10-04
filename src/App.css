@@ -1,0 +1,12 @@
+body {
+    background-color: green;  
+    color: greenyellow;
+    border-color: greenyellow;
+    border-style: solid;
+    display: inline-block;
+    border-width: 15px
+}
+
+.list {
+    color: white;
+}

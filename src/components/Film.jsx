@@ -13,7 +13,7 @@ const Film = ({name, children}) => {
         
 
 
-    <p> <a href={children}>{name}</a></p>
+    <p> <a href={children} className="list">{name}</a></p>
         
         
         
